@@ -1,0 +1,36 @@
+{
+  "bots": {
+    "tron": {
+      "token": "8764588406:AAGNISwiTy5aTVdFSTjQX40Xii_bYtHe7I0",
+      "channel_id": -1003713386384,
+      "topic_id": 3
+    },
+    "tether": {
+      "token": "8966433672:AAFNhMlQfaGnNET7HO-01IyzKKLDaHHDqYw",
+      "channel_id": -1003713386384,
+      "topic_id": 2
+    },
+    "debt": {
+      "token": "YOUR_DEBT_BOT_TOKEN_HERE",
+      "channel_id": -1004403310152,
+      "topic_id": 5
+    },
+    "cashout_10plus": {
+      "token": "8807580296:AAEHnTfN8gqyJDsAg07zjWHRa6vXSizHaP8",
+      "channel_id": -1003713386384,
+      "topic_id": 5
+    },
+    "cashout_10minus": {
+      "token": "8962350105:AAHBaJEBAsu_qpuP-ZGgVrYZMUrd8frFZEk",
+      "channel_id": -1003713386384,
+      "topic_id": 7
+    },
+    "cashout_crypto": {
+      "token": "8700127375:AAGdzMmsi1RnMzNrJvdjnb55c4cWQPAyYiU",
+      "channel_id": -1003713386384,
+      "topic_id": 5
+    }
+  },
+  "excel_time": "06:00",
+  "timezone": "Asia/Tehran"
+}
